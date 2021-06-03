@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The retayling vintners their ansvver, to a petition, lately printed, and falsely and unjustly suggested by projectors, against the said retaylors.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28939</idno><idno type="EEBO-CITATION">99885639</idno>
+  <idno type="VID">185488</idno>
+  <idno type="EEBO-PROQUEST">2240899992</idno>
+  
+            <idno type="STC">Wing R1180</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[35]</idno>
+            <idno type="STC">ESTC R224761</idno>
+            <idno type="PROQUEST">ocm99885639</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885639e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185488)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The retayling vintners their ansvver, to a petition, lately printed, and falsely and unjustly suggested by projectors, against the said retaylors.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.). : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Imperfect: some loss of print at top of sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine and wine making --  Taxation --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185488:1"/>
+            <pb facs="tcp:185488:1"/>
+            <head>❧ The Retayling Vintners their Ansvver, TO A PETITION, Lately Printed, and falsely and unjustly suggested by Projectors, against the said Retaylors.</head>
+            <p>
+               <figure>
+                  <head>R. Kilvert.</head>
+                  <figDesc>depiction of Richard Kilvert</figDesc>
+               </figure>
+               <figure>
+                  <lg>
+                     <l>
+                        <hi>Abel</hi> in this th' art like to cursed <hi>Caine.</hi>
+                     </l>
+                     <l>Th'ast wrong'd thy <hi>Brethren</hi> and thy <hi>Chaine.</hi>
+                     </l>
+                  </lg>
+                  <figure>
+                     <sp>
+                        <lg>
+                           <l>I've rackt my Wines to 'thfull extent,</l>
+                           <l>Not dreaning of a <hi>Parliament.</hi>
+                           </l>
+                        </lg>
+                     </sp>
+                     <figure>
+                        <figDesc>depiction of letters patent</figDesc>
+                        <head>Patent</head>
+                     </figure>
+                     <figDesc>depiction of Alderman Abell</figDesc>
+                  </figure>
+                  <figure>
+                     <head>Office of <hi>Tickets.</hi>
+                     </head>
+                     <p>A B</p>
+                  </figure>
+               </figure>
+            </p>
+            <p>THough <hi>Guido Vaux</hi> walked for a long space with his darke lanthorne undiscovered, yet in the end, time faire and faithfull hand-maide brought to light his Treasons and Hypocrisies.</p>
+            <p>And although projectors Snaile-like creepe into their shell of obscurity, yet the Justice of these times will shew them in their owne net they have danced in, and cause them to carry upon their projecting backs their crimes and faults that they unjustly endeavour to father upon others.</p>
+            <p>It was most apparant to the world, that Alderman <hi>Abell</hi> had long since a designe to raise an Imposition of 40. shillings <hi>per</hi> Tonne upon all Wines that should be imported into this Kingdome to be sold; and to get the said Imposition granted unto him at a Farme of 30000. pounds <hi>per annum,</hi> not having any regard to the great burthen it would bring upon the Common wealth, but ayming at his owne particular profit and gaine, and to bring his owne end to passe, and the better to effect and ac<g ref="char:EOLhyphen"/>complish his project, he combined with one <hi>Richard Kilvert;</hi> and to enable him for his purpose, the said Alderman <hi>Abell</hi> being at that time Master of the Company of Vintners, admitted the said <hi>Richard Kilvert</hi> to be a brother of that mystery and society.</p>
+            <p>That thereupon the said Alderman <hi>Abell,</hi> and the said Master <hi>Kilvert</hi> did in a private Taverne conceive and frame a Pe<g ref="char:EOLhyphen"/>tition to his Majestie in the name of the Retayling Vintners of <hi>London,</hi> and preferred the said Petition; whereas in truth, the Retaylors were not at all privy to the drawing or preferring of the same.</p>
+            <p>That thereupon Alderman <hi>Abell,</hi> and Master <hi>Kilvert</hi> procured the Imposition to be layd, and the same was granted to Alderman <hi>Abell</hi> (and to such as he pleased to take in) at 30000. pounds <hi>per Annum,</hi> whereas if the Imposition were re<g ref="char:EOLhyphen"/>ceived, it would amount to a farre greater summe.</p>
+            <p>That for the support and maintenance of the designe, <hi>Richard Kilvert</hi> had a gratuity of 1000. pounds, and 500. pou <hi>per annum</hi> out of the Farme, and Alderman <hi>Abell</hi> 500. pounds <hi>per annum</hi> out of the increase, besides his share in the profit of the Farme.</p>
+            <p>That the said Alderman <hi>Abell</hi> for the better obtaining of his owne ends, procured divers of the retayling Vintners to be imprisoned, and their goods to be seised for the raising and advancing of his unlawfull Wine project.</p>
+            <p>That divers of the retayling Vintners did preferre a Petition to the Parliament against the said Alderman <hi>Abell</hi> and <hi>Richard Kilvert,</hi> discovering their deceits to his Majesty, their exactions upon the Subject, and their oppressing of the said Petitioners.</p>
+            <p>That thereupon the said deceits, exactions and oppressions were proved, and Alderman <hi>Abell</hi> and <hi>Richard Kilvert</hi> voted for the projectors of the said Wine project, both in the creation and execution thereof by the Honourable Assembly of the Commons in the House of Parliament.</p>
+            <p>That now to cast an aspersion upon those that discovered and detected their deceits and oppressions, they have printed a Petition which they framed for their owne ends, and preferred to his Majesty in the name of the Retayling Vintners, with<g ref="char:EOLhyphen"/>out the direction, consent, or privity of the generality of Retayling Vintners.</p>
+            <p>That the Alderman and his partners gained by their Wine project in one yeare, all Charges and Expences discharged, and cleared, the summe of 25146. pounds, eighteene shillings, and nine pence. This as appeareth by his owne Leidger-Booke, <hi>Fol</hi> 295. <hi>Anno Dom.</hi> 1638.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
